@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h1 align="center">
+
+![aideyisu's github stats](https://github-readme-stats.vercel.app/api?username=aideyisu&show_icons=true)
+
+斯是陋室，惟吾德馨
+
 <!--
 **aideyisu/aideyisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
