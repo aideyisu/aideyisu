@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aideyisu&show_icons=true&text_color=718096" />
 
 
-### Welcome 👋  
+### Welcome 👾🥶👾
 
 - 🔭 I’m currently working on 启明星辰 (555..学校想毕业必须去)
 
