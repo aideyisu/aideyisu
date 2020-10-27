@@ -6,11 +6,9 @@
 
 ✧ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧   斯是陋室，惟吾德馨
  
- 
- 
+<h1 align="center">
   [![Ys'is github stats](https://github-readme-stats.vercel.app/api?username=aideyisu&theme=radical&show_icons=true&count_private=true")](https://github.com/aideyisu)
-  
-<div align='center'>  [![Ys'is github stats](https://github-readme-stats.vercel.app/api?username=aideyisu&theme=radical&show_icons=true&count_private=true")](https://github.com/aideyisu)</div>
+</h1>
 <!--
 **aideyisu/aideyisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
