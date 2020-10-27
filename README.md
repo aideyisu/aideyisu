@@ -4,9 +4,11 @@
 
 - 🌱 I’m currently learning Go语言后端 at 极客时间等诸多平台(最近实习没给自己挖新坑)
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=aideyisu&theme=radical&show_icons=true&count_private=true" />
-
 ✧ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧   斯是陋室，惟吾德馨
+
+<h1 align="center">
+
+![aideyisu's github stats](https://github-readme-stats.vercel.app/api?username=aideyisu&theme=radical&show_icons=true&count_private=true)
 
 <!--
 **aideyisu/aideyisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
