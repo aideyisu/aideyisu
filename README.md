@@ -8,8 +8,9 @@
  
  
  
-  [![Ys'is github stats](https://github-readme-stats.vercel.app/api?username=aideyisu&theme=radical&show_icons=true&text_color=718096")](https://github.com/aideyisu)
+  [![Ys'is github stats](https://github-readme-stats.vercel.app/api?username=aideyisu&theme=radical&show_icons=true&count_private=true")](https://github.com/aideyisu)
   
+<div align='center'>  [![Ys'is github stats](https://github-readme-stats.vercel.app/api?username=aideyisu&theme=radical&show_icons=true&count_private=true")](https://github.com/aideyisu)</div>
 <!--
 **aideyisu/aideyisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
