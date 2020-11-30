@@ -9,9 +9,9 @@
                                       |___/
 ```
 
-- 🔭 I’m currently working on 启明星辰 
+- 🔭 I’m currently working on 启明星辰-应急相应&安全开发&渗透测试
 
-- 🌱 I’m currently learning Go语言后端 at 极客时间等诸多平台(最近实习没给自己挖新坑)
+- 🌱 I’m currently learning Go微服务
 
 - 📫 How to reach me:  740531307@qq.com
 
