@@ -9,9 +9,9 @@
                                       |___/
 ```
 
-- 🔭 I’m currently working on 启明星辰-应急相应&安全开发&渗透测试
+- 🔭 I’m currently working on 小破站-后端
 
-- 🌱 I’m currently learning Go微服务
+- 🌱 I’m currently learning <Unix环境高级编程>
 
 - 📫 How to reach me:  740531307@qq.com
 
